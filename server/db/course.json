@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HTML",
+    "agenda": "Belajar HTML secara praktis",
+    "topic": "Membuat HTML sederhana",
+    "start_time": "2023-09-30 21:00:00.000 +0800",
+    "duration": 60,
+    "price": 16000,
+    "MentorId": 1,
+    "imageUrl": "https://www.kreatifa.com/wp-content/uploads/2019/06/wp4325531-1.jpg"
+  },
+  {
+    "name": "CSS",
+    "agenda": "Menghias HTML dengan CSS",
+    "topic": "Membuat file CSS sederhana",
+    "start_time": "2023-09-30 10:00:00.000 +0800",
+    "duration": 60,
+    "price": 16000,
+    "MentorId": 2,
+    "imageUrl": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png"
+  },
+  {
+    "name": "Phyton",
+    "agenda": "Belajar Phyton",
+    "topic": "Membuat file Phyton sederhana",
+    "start_time": "2023-09-30 13:00:00.000 +0800",
+    "duration": 60,
+    "price": 16000,
+    "MentorId": 3,
+    "imageUrl": "https://diengcyber.com/wp-content/uploads/2022/10/Artikel-Mengenal-Python-1.jpeg"
+  },
+  {
+    "name": "Javascript",
+    "agenda": "Membuat file JS",
+    "topic": "Membuat file JS sederhana",
+    "start_time": "2023-09-30 13:00:00.000 +0800",
+    "duration": 60,
+    "price": 16000,
+    "MentorId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+  }
+]
